@@ -1,0 +1,28 @@
+body {margin:0px; background-color:#D8D8D8;}
+body,td {font-family:arial; font-size:11px; }
+
+blockquote {font-family:arial; color:#FFFFFF; font-size:16px; font-style:italic; font-weight:bold; border-top:1px #CCC; border-bottom:1px solid #CCC; margin:10px; padding:30px 10px 30px 10px; text-align:center; background-color:#EEE; margin-left:0px; }
+
+#pageHeader {height:50px; line-height:50px; color:#80FF00; font-family:arial; font-size:24px; padding:10px 16px 10px 16px; background-color:#004A66;  border-bottom:1px solid #FFF; }
+#divBaseLinks {height:30px; background-color:#004A66;  border-top:1px solid #FFF; padding:0px 10px 0px 10px; line-height:30px; color:#FFF;}
+
+#container {margin:20px; background-color:#FFF;}
+#divPageContent {border-top:3px solid #FF8000; border-bottom:3px solid #004A66; padding:10px 0px 10px 0px;  }
+#navcontainer { width: 160px; }
+
+#sideContent {background-color:#FFF; padding:10px; }
+#contentHeader {height:22px; line-height:22px; color:#FFF; font-family:arial; font-size:14px; padding:0px 5px 0px 5px; background-color:#004A66;  border-bottom:1px solid #FFF; }
+
+
+.rightColumn {padding:0px 10px 10px 10px; border-left:1px solid #cccccc;}
+.subHeader {font-family:arial; color:#004A66; font-size:16px; letter-spacing:1px; font-weight:bold; margin:10px 0px 10px 0px; border-bottom:1px solid #004A66;}
+
+
+
+/* styles for rounded corners */
+b.rtop, b.rbottom{display:block;background: #D8D8D8}
+b.rtop b, b.rbottom b{display:block;height: 1px; overflow: hidden; background: #004A66}
+b.r1{margin: 0 5px}
+b.r2{margin: 0 3px}
+b.r3{margin: 0 2px}
+b.rtop b.r4, b.rbottom b.r4{margin: 0 1px;height: 2px}
